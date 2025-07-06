@@ -1,4 +1,11 @@
-## Hi there 👋
+## GlobePrice 🌍
+
+GlobePrice turns everyday real-world transactions into trusted sources of global price data
+I believe GlobePrice should win because it is an idea that could be used by 60 percent of the world's population and is incredibly useful for people who report the prices and the organisations that need the price data
+
+The Team is Jessica Pointing, who graduated from her PhD in Physics in Quantum Computing and was a web3 security researcher on the side.
+
+Please see the pdf attached for all of the artificats of the submission.
 
 <!--
 **globeprice/globeprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
