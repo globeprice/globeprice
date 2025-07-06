@@ -5,7 +5,7 @@ I believe GlobePrice should win because it is an idea that could be used by 60 p
 
 The Team is Jessica Pointing, who graduated from her PhD in Physics in Quantum Computing and was a web3 security researcher on the side.
 
-Please see the pdf attached for all of the artificats of the submission.
+Please see the link here for all of the artificats of the submission: https://drive.google.com/file/d/1A__Zxt6BANFVUJmn_ZICCFUY-7lO0w5p/view?usp=drive_link
 
 <!--
 **globeprice/globeprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
